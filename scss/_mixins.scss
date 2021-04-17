@@ -1,0 +1,10 @@
+@mixin btn($bg, $color, $fs) {
+  color: $color;
+  font-size: $fs;
+  background: $bg;
+}
+@mixin btn-next($bg, $color, $fs) {
+  color: $color;
+  font-size: $fs;
+  background: $bg;
+}
